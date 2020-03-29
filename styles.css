@@ -114,7 +114,12 @@ ul.skills {
   padding: 0;
   text-align: center;
 }
+.dash{
+  border: 1px solid #D66969;
+  width: 80%;
+  height: 0px;
 
+}
 .skills li {
   border-radius: 6px;
   display: inline-block;
@@ -135,18 +140,23 @@ list-style-type: square;
 }
 .bball {
 list-style-image: url(images/bball.png);
+margin-bottom: 10px;
 }
 .gym {
 list-style-image: url(images/gym.png);
+margin-bottom: 10px;
 }
 .diving {
 list-style-image: url(images/diving.png);
+margin-bottom: 10px;
 }
 .game {
 list-style-image: url(images/game.png);
+margin-bottom: 10px;
 }
 .movie {
 list-style-image: url(images/movie.png);
+margin-bottom: 10px;
 }
 
 footer {
