@@ -141,24 +141,32 @@ list-style-type: square;
 .bball {
 list-style-image: url(images/bball.png);
 margin-bottom: 10px;
+margin-top: 10px;
 }
 .gym {
 list-style-image: url(images/gym.png);
 margin-bottom: 10px;
+margin-top: 10px;
 }
 .diving {
 list-style-image: url(images/diving.png);
 margin-bottom: 10px;
+margin-top: 10px;
 }
 .game {
 list-style-image: url(images/game.png);
 margin-bottom: 10px;
+margin-top: 10px;
 }
 .movie {
 list-style-image: url(images/movie.png);
 margin-bottom: 10px;
+margin-top: 10px;
 }
-
+.spock {
+align-items: center;
+margin-top: 10px;
+}
 footer {
   width: 100%;
   min-height: 30px;
